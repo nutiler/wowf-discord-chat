@@ -1,0 +1,3 @@
+{"id":1,"sender":"Warrior Example","text":"Hello team!","class":"WARRIOR","race":"Tauren","sex":2,"reviewStatus":"reviewed"}
+{"id":2,"sender":"Warrior Example","text":"Ready for the dungeon?","class":"WARRIOR","race":"Tauren","sex":2,"reviewStatus":"reviewed"}
+{"id":3,"sender":"Mage Example","text":"Ready when you are.","class":"MAGE","race":null,"sex":null,"reviewStatus":"reviewed"}

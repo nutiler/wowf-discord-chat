@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "players": {
+    "Warrior Example": { "race": "tauren", "sex": 2 },
+    "Mage Example": { "race": "troll", "sex": 3 }
+  }
+}

@@ -1,0 +1,23 @@
+# Only reviewed public source belongs in this repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/Start.ps1
+!/send_history.py
+!/send_captured.py
+!/review_history.py
+!/tests/
+/tests/*
+!/tests/test_sender.py
+!/tests/test_review.py
+!/examples/
+/examples/*
+!/examples/history.example.jsonl
+!/examples/avatar-overrides.example.json
+!/.github/
+/.github/*
+!/.github/workflows/
+/.github/workflows/*
+!/.github/workflows/tests.yml
